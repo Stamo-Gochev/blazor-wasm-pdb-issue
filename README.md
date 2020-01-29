@@ -18,6 +18,7 @@ Suppose that the app is exposed from IIS on http://localhost/blazorwasm32
 
 4. Open the Network tab in DevTools and look for the failed request for `blazorwasm32.Shared.pdb`
 
-```
+Screenshot of the result:
 
-```
+![blazor-wasm](https://user-images.githubusercontent.com/1857705/73352302-7cd53b00-4299-11ea-9179-7edc79d5cc7e.png)
+
